@@ -25,3 +25,5 @@ name.last
 name.third
 
 print("Hello World")
+
+print("John")
